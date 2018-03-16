@@ -1,3 +1,17 @@
+.ipsLogin {
+    background-color: #3a4d74;
+}
+
 .ipsLogin > .logo {
 	background-image: url(./img/logo.svg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 160px;
+	left: 49%;
+	margin-left: -140px;
+	margin-top: -160px;
+	position: fixed;
+	top: 40%;
+	width: 350px;
+	
 }
