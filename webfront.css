@@ -7,6 +7,10 @@
     background-image: url('img/login.svg');
 }
 
+.ipsLogin>.logoBottom {
+	background-image: url(./img/logo.png);
+}
+
 .ipsLogin > .logo {
 	background-image: url(./img/logo.svg);
 	background-repeat: no-repeat;
