@@ -3,6 +3,10 @@
     background-color: #3a4d74;
 }
 
+.ipsIconIPS {
+    background-image: url('img/login.svg');
+}
+
 .ipsLogin > .logo {
 	background-image: url(./img/logo.svg);
 	background-repeat: no-repeat;
@@ -16,10 +20,6 @@
 	width: 350px;
 	
 }
-.ipsLogin > .content > .configurators > div > .icon {
-	background-size: 45px;
-}
-.ipsIconIPS {
-    background-image: url('img/login.svg');
-}
+
+
 
