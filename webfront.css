@@ -3,13 +3,7 @@
     background-color: #3a4d74;
 }
 
-.ipsIconIPS {
-    background-image: url(./img/login.svg);
-}
 
-.ipsLogin>.logoBottom {
-	background-image: url(./img/logo.svg);
-}
 
 .ipsLogin > .logo {
 	background-image: url(./img/logo.svg);
