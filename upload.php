@@ -1,6 +1,6 @@
 <?php
 $target_dir = "./img/";
-$target_file = $target_dir . "test.png";
+$target_file = $target_dir . "Uebersicht_1.jpg";
 $uploadOk = 1;
 $imageFileType = strtolower(pathinfo($target_file,PATHINFO_EXTENSION));
 echo $target_file;
