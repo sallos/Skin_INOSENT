@@ -1,0 +1,12 @@
+<script>
+jQuery().ready(function(){
+    setInterval("getResult()",1000);
+});
+function getResult(){   
+    jQuery.post("anlage.php",function( data ) {
+        jQuery("#msgs").html(data);
+    });
+}
+</script>
+<div id="msgs">
+</div>
